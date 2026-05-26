@@ -18,6 +18,8 @@ public:
 
        
         return even;
+
+        //  return __gcd(odd, even);
         
     }
 };
